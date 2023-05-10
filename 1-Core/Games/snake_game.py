@@ -97,3 +97,4 @@ while running:
 
 # Quit the game
 pygame.quit()
+print(f"score: {snake_length}")
